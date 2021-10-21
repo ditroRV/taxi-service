@@ -13,7 +13,7 @@ Taxi Service  is a simple web application which is developed with Java using tec
 - View drivers, cars, manufacturers
 - View cars for a specific driver
 - Delete drivers, cars manufacturers
-- Export documents as Markdown, HTML and PDF
+
 
 ## How to run application
 -  Install MySQL or other RDBMS.
