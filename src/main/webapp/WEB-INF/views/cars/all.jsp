@@ -38,7 +38,7 @@
                 </c:forEach>
             </td>
             <td>
-                <a  class="table_dark href="${pageContext.request.contextPath}/cars/delete?id=${car.id}">DELETE</a>
+                <a class="table_dark" href="${pageContext.request.contextPath}/cars/delete?id=${car.id}">DELETE</a>
             </td>
         </tr>
     </c:forEach>
