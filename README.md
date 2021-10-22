@@ -1,6 +1,10 @@
-# Taxi Service
-Taxi Service  is a simple web application which is developed with Java using technologies such as:
+#Taxi service
+## Description
+Taxi service is my first web-project which I created for practice and to show my skills in Java, OOP and SOLID principles, JDBC, Web.
+The main task of this web application is to perform CRUD operations on the database and display records from the database in browsers.
 
+## Used Technologies
+- Java
 - JDBC
 - Servlets
 - JSTL
@@ -9,11 +13,11 @@ Taxi Service  is a simple web application which is developed with Java using tec
 - Tomcat
 
 ## Application Features
-- Add new drivers, cars amd manufacturers
+- Add new drivers, cars and manufacturers
 - View drivers, cars, manufacturers
 - View cars for a specific driver
 - Delete drivers, cars manufacturers
-
+- User authentication
 
 ## How to run application
 -  Install MySQL or other RDBMS.
