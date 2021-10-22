@@ -1,4 +1,4 @@
-#Taxi service
+# Taxi service
 ## Description
 Taxi service is my first web-project which I created for practice and to show my skills in Java, OOP and SOLID principles, JDBC, Web.
 The main task of this web application is to perform CRUD operations on the database and display records from the database in browsers.
